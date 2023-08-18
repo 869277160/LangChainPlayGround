@@ -1,0 +1,16 @@
+.env
+
+data/*
+*.txt
+*.pdf
+*.log
+
+
+*.html
+*.css
+*.csv
+*.js
+*.json
+wandb/*
+
+chroma/*

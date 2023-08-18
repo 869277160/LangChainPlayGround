@@ -1,0 +1,31 @@
+# import openai
+# import langchain
+# import os
+# import openai
+
+# openai.api_base=v1.OpenKEY.Cloud 
+# openai.api_base=https://openkey.cloud/v1 # 换成代理，一定要加v1
+# openai.api_key=sk-AULaii8SBDxCOmYgEc38FbD1273643DdB10063A3E3609e42
+
+
+
+OPENAI_API_BASE=https://openkey.cloud/v1
+OPENAI_API_KEY=sk-lANo2jIeCWQt94UCCf5d16B7C32744279bF98b06C822D519
+
+
+
+WOLFRAM_ALPHA_APPID=KY898U-2EHJP934HY
+SERPAPI_API_KEY=f512296a30abbcf51872895ec0a3930a13aca16c0e14a063f2a70ab3000e3f02
+
+# erase the input
+# os.environ[ZAPIER_NLA_API_KEY]=sk-ak-
+
+
+GOOGLE_API_KEY=AIzaSyBotUP5nyCsaedXNdDXAUnW1HKx6lPGng8
+GOOGLE_CSE_ID=f37c64db1536e45e4
+
+HTTP_PROXY=http://192.168.170.37:7890
+HTTPS_PROXY=http://192.168.170.37:7890
+
+
+
